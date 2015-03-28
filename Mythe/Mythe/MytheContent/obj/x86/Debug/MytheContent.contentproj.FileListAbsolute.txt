@@ -1,0 +1,2 @@
+C:\Users\Elroy\Desktop\mythe\code\Mythe\Mythe\MytheContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Elroy\Documents\School\xna\Projects\Mythe\Mythe\MytheContent\obj\x86\Debug\MytheContent.contentprojResolveAssemblyReference.cache
